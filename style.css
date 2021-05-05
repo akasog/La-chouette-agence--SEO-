@@ -79,6 +79,11 @@ a:hover {
     font-size: 1.2rem;
 }
 
+.col-sm-6 img {
+    width: 270px;
+    height: 270px;
+}
+
 
 .bg-center,
 .bg-l-edge,
@@ -701,7 +706,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 12px;
 }
 
 .tight-width-whitespace {
