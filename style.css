@@ -84,6 +84,16 @@ a:hover {
     height: 270px;
 }
 
+.navbar-brand img {
+    width: 214.44px;
+    height: 40px;
+}
+
+.col-sm-12 img {
+    width: 100px;
+    height: 100px;
+}
+
 
 .bg-center,
 .bg-l-edge,
