@@ -84,6 +84,10 @@ a:hover {
     height: 270px;
 }
 
+.bloc-button {
+    color: black;
+}
+
 .navbar-brand img {
     width: 214.44px;
     height: 40px;
@@ -142,7 +146,7 @@ a:hover {
 }
 
 .d-bloc button:hover {
-    color: rgba(255, 255, 255, .9);
+    color: rgba(255, 255, 255, 0.9);
 }
 
 .d-bloc .icon-round,
@@ -1100,3 +1104,4 @@ h4 {
         text-align: center;
     }
 }
+
